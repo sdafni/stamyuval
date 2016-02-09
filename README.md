@@ -13,4 +13,6 @@ Git to find the commit where a bug was introduced. To play the modified version
 of the game, simply open the index.html file in your web browser.
 
 Many thanks to Doug for creating this awesome game.
-yuv edit from web XXXXXXXx!
+yuv edit from web XXXXXXXx
+
+yuv edit from pc
